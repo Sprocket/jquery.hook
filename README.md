@@ -26,3 +26,7 @@ Simply link to jQuery and jQuery.hook, add a data-hook attribute to your element
 	$.hook('nav-menu-toggle').on('click', function() {
 	    $.hook('nav-menu').toggle();
 	});
+
+License
+-------
+	[MIT License]: http://mit-license.org/
