@@ -1,0 +1,26 @@
+{
+  "name": "jquery.hook",
+  "version": "0.0.1",
+  "authors": [
+    "Will Boyd <will@codersblock.com>",
+    "Duncan Heal <duncan@sprocket.co.nz>"
+  ],
+  "description": "An arguably better way to select",
+  "main": "dist/jquery.hook.js",
+  "keywords": [
+    "jquery",
+    "select"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Sprocket/jquery.hook",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+         "jquery": ">=1",
+  }
+}
